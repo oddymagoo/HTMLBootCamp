@@ -1,0 +1,15 @@
+body {
+	float: left;
+}
+h1 {
+	font-family: "Noto Sans TC";
+	border-bottom: 2px solid gray;
+	width: 30%;
+}
+hr {
+	width: 30%;
+}
+
+img {
+	width: 30%;
+}
