@@ -1,0 +1,25 @@
+body {
+	font-family: "Source Sans Pro";
+	max-width: 800px;
+	width: 80%;
+	margin: 10px auto;
+	border: 15px solid #efefef;
+	padding: 20px;
+}
+h2 {
+	text-transform: uppercase;
+	font-size: 1.5rem;
+}
+
+
+.date {
+	font-family: Arial;
+	color: #aaaaaa;
+	letter-spacing: .5rem;
+}
+
+.first {
+	border-left: 5px solid #aaaaaa;
+	padding-left: 10px;
+}
+
